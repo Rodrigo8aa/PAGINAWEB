@@ -3,6 +3,8 @@ html{
 }
 body{
     background-color: #fff;
+    background-image: url(https://www.belgranocordoba.com/images/noticias/4860.jpg);
+    background-size: cover;
     display: flex;
     flex-direction: column;
     height: 100%;
